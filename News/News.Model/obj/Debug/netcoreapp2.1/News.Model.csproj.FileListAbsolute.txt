@@ -1,0 +1,8 @@
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Model\bin\Debug\netcoreapp2.1\News.Model.deps.json
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Model\bin\Debug\netcoreapp2.1\News.Model.dll
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Model\bin\Debug\netcoreapp2.1\News.Model.pdb
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Model\obj\Debug\netcoreapp2.1\News.Model.csproj.CoreCompileInputs.cache
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Model\obj\Debug\netcoreapp2.1\News.Model.AssemblyInfoInputs.cache
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Model\obj\Debug\netcoreapp2.1\News.Model.AssemblyInfo.cs
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Model\obj\Debug\netcoreapp2.1\News.Model.dll
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Model\obj\Debug\netcoreapp2.1\News.Model.pdb

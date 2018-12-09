@@ -1,0 +1,12 @@
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\bin\Debug\netcoreapp2.1\News.Service.deps.json
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\bin\Debug\netcoreapp2.1\News.Service.dll
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\bin\Debug\netcoreapp2.1\News.Service.pdb
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\bin\Debug\netcoreapp2.1\News.Model.dll
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\bin\Debug\netcoreapp2.1\News.Model.pdb
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\obj\Debug\netcoreapp2.1\News.Service.csprojAssemblyReference.cache
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\obj\Debug\netcoreapp2.1\News.Service.csproj.CoreCompileInputs.cache
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\obj\Debug\netcoreapp2.1\News.Service.AssemblyInfoInputs.cache
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\obj\Debug\netcoreapp2.1\News.Service.AssemblyInfo.cs
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\obj\Debug\netcoreapp2.1\News.Service.csproj.CopyComplete
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\obj\Debug\netcoreapp2.1\News.Service.dll
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Service\obj\Debug\netcoreapp2.1\News.Service.pdb

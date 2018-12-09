@@ -1,0 +1,8 @@
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Utility\bin\Debug\netcoreapp2.1\News.Utility.deps.json
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Utility\bin\Debug\netcoreapp2.1\News.Utility.dll
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Utility\bin\Debug\netcoreapp2.1\News.Utility.pdb
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Utility\obj\Debug\netcoreapp2.1\News.Utility.csproj.CoreCompileInputs.cache
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Utility\obj\Debug\netcoreapp2.1\News.Utility.AssemblyInfoInputs.cache
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Utility\obj\Debug\netcoreapp2.1\News.Utility.AssemblyInfo.cs
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Utility\obj\Debug\netcoreapp2.1\News.Utility.dll
+E:\冯子武工作文件夹\dotnet\dotnetcore\.net core test\News\News.Utility\obj\Debug\netcoreapp2.1\News.Utility.pdb
